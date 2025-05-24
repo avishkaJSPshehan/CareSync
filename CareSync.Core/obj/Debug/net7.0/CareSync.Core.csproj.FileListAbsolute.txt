@@ -1,0 +1,13 @@
+D:\Programming Projects\CareSync\CareSync.Core\bin\Debug\net7.0\CareSync.Core.deps.json
+D:\Programming Projects\CareSync\CareSync.Core\bin\Debug\net7.0\CareSync.Core.dll
+D:\Programming Projects\CareSync\CareSync.Core\bin\Debug\net7.0\CareSync.Core.pdb
+D:\Programming Projects\CareSync\CareSync.Core\obj\Debug\net7.0\CareSync.Core.csproj.AssemblyReference.cache
+D:\Programming Projects\CareSync\CareSync.Core\obj\Debug\net7.0\CareSync.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Projects\CareSync\CareSync.Core\obj\Debug\net7.0\CareSync.Core.AssemblyInfoInputs.cache
+D:\Programming Projects\CareSync\CareSync.Core\obj\Debug\net7.0\CareSync.Core.AssemblyInfo.cs
+D:\Programming Projects\CareSync\CareSync.Core\obj\Debug\net7.0\CareSync.Core.csproj.CoreCompileInputs.cache
+D:\Programming Projects\CareSync\CareSync.Core\obj\Debug\net7.0\CareSync.Core.sourcelink.json
+D:\Programming Projects\CareSync\CareSync.Core\obj\Debug\net7.0\CareSync.Core.dll
+D:\Programming Projects\CareSync\CareSync.Core\obj\Debug\net7.0\refint\CareSync.Core.dll
+D:\Programming Projects\CareSync\CareSync.Core\obj\Debug\net7.0\CareSync.Core.pdb
+D:\Programming Projects\CareSync\CareSync.Core\obj\Debug\net7.0\ref\CareSync.Core.dll

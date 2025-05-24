@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "c2MjGpqBvzCtC3zFtoGmqXMehxkaR4MIluuRSWZhfEE=",
+  "Source": "CareSync.API",
+  "BasePath": "_content/CareSync.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
