@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CareSync.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5cb509e2ce937f1b0646fd2e691d60aac2ad071")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22e807dec905800242733426d8a0e37fe5475972")]
 [assembly: System.Reflection.AssemblyProductAttribute("CareSync.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CareSync.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
