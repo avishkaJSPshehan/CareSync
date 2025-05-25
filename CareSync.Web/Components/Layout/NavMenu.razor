@@ -1,7 +1,10 @@
-﻿<div class="top-row ps-3 navbar navbar-dark">
+﻿<div class="top-row ps-3 navbar navbar-dark text-center">
     <div class="container-fluid">
-        <a class="navbar-brand" href="">CareSync.Web</a>
+        <i class="bi bi-suit-heart-fill" style="font-size: 1.8rem; line-height: 1;"></i>
+        <a class="navbar-brand" href="">CareSync</a>
+        
     </div>
+    
 </div>
 
 <input type="checkbox" title="Navigation menu" class="navbar-toggler" />
@@ -9,20 +12,44 @@
 <div class="nav-scrollable" onclick="document.querySelector('.navbar-toggler').click()">
     <nav class="flex-column">
         <div class="nav-item px-3">
-            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
-                <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true"></span> Home
+            <NavLink class="nav-link d-flex align-items-center gap-2" href="/admin-dashboard" Match="NavLinkMatch.All">
+                <i class="bi bi-hospital" style="font-size: 1.5rem; line-height: 1;"></i>
+                    <span>Healthcare Admin</span>
             </NavLink>
         </div>
 
         <div class="nav-item px-3">
-            <NavLink class="nav-link" href="counter">
-                <span class="bi bi-plus-square-fill-nav-menu" aria-hidden="true"></span> Counter
+            <NavLink class="nav-link d-flex align-items-center gap-2" href="/medical-dashboard" Match="NavLinkMatch.All">
+                <i class="bi bi-heart-pulse" style="font-size: 1.5rem; line-height: 1;"></i>
+                <span>Medical Dashboard</span>
             </NavLink>
         </div>
 
         <div class="nav-item px-3">
-            <NavLink class="nav-link" href="weather">
-                <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> Weather
+            <NavLink class="nav-link d-flex align-items-center gap-2" href="/clinic-dashboard" Match="NavLinkMatch.All">
+                <i class="bi bi-file-earmark-medical" style="font-size: 1.5rem; line-height: 1;"></i>
+                <span>Clinic Dashboard</span>
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link d-flex align-items-center gap-2" href="/appointment" Match="NavLinkMatch.All">
+                <i class="bi bi-calendar-heart" style="font-size: 1.5rem; line-height: 1;"></i>
+                <span>Appointment</span>
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link d-flex align-items-center gap-2" href="/patient-profile" Match="NavLinkMatch.All">
+                <i class="bi bi-person-vcard" style="font-size: 1.5rem; line-height: 1;"></i>
+                <span>Patient Profile</span>
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link d-flex align-items-center gap-2" href="/doctor-profile" Match="NavLinkMatch.All">
+                <i class="bi bi-postcard-heart" style="font-size: 1.5rem; line-height: 1;"></i>
+                <span>Doctor Profile</span>
             </NavLink>
         </div>
     </nav>

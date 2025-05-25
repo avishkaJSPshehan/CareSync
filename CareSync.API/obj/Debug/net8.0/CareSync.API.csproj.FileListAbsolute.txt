@@ -173,3 +173,8 @@ D:\Programming Projects\CareSync\CareSync.API\obj\Debug\net8.0\refint\CareSync.A
 D:\Programming Projects\CareSync\CareSync.API\obj\Debug\net8.0\CareSync.API.pdb
 D:\Programming Projects\CareSync\CareSync.API\obj\Debug\net8.0\CareSync.API.genruntimeconfig.cache
 D:\Programming Projects\CareSync\CareSync.API\obj\Debug\net8.0\ref\CareSync.API.dll
+D:\Programming Projects\CareSync\CareSync.API\bin\Debug\net8.0\FluentValidation.dll
+D:\Programming Projects\CareSync\CareSync.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\Programming Projects\CareSync\CareSync.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Programming Projects\CareSync\CareSync.API\bin\Debug\net8.0\AutoMapper.dll
+D:\Programming Projects\CareSync\CareSync.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
