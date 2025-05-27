@@ -246,3 +246,220 @@ body[b-lw97k3z2jc]{
         overflow-y: auto;
     }
 }
+/* _content/CareSync.Web/Components/Pages/Admin-Dashboard/Home.razor.rz.scp.css */
+.top-row-left[b-rnl6id7otv] {
+  display: flex;
+  align-items: left;
+  margin-right: auto;
+  color: #28a6a7;
+  font-size: 1.1rem;
+}
+
+.top-row-right[b-rnl6id7otv] {
+  display: flex;
+  align-items: center;
+  border: 1px solid #cdd5db; /* You can change to 0.5px if needed */
+  border-radius: 4px; /* Thinner corners */
+  overflow: hidden;
+  font-family: "Segoe UI", sans-serif;
+  font-size: 0.8rem; /* Compact text */
+  height: 2rem; /* Sets exact height for a slim box */
+}
+
+/* Icon container */
+.top-row-right .icon-box[b-rnl6id7otv] {
+  background-color: #f1f7f9;
+  padding: 0.2rem 0.4rem; /* Less padding */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-right: 1px solid #cdd5db;
+}
+
+/* Icon itself */
+.top-row-right .icon-box i[b-rnl6id7otv] {
+  color: #1e9aaa;
+  font-size: 0.9rem;
+}
+
+/* Text */
+.top-row-right p[b-rnl6id7otv] {
+  margin: 0;
+  padding: 0 0.5rem; /* No vertical padding, just horizontal */
+  color: #212529;
+}
+
+.top-row[b-rnl6id7otv] {
+  display: flex;
+  align-items: right;
+  margin-left: auto;
+}
+
+.medical-section[b-rnl6id7otv] {
+  max-width: 50%;
+  margin-right:auto;
+  background: #E1F8F8;
+  border-radius: 5px;
+  /* display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  gap: 40px;
+  align-items: center; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.doctor-info[b-rnl6id7otv]{
+    padding-top: 20px;
+    padding-left: 15px;
+    padding-bottom: 30px;
+}
+
+
+.doctor-name[b-rnl6id7otv] {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #48B3B4;
+  margin-bottom: 5px;
+
+}
+
+.doctor-title[b-rnl6id7otv] {
+  font-size: 1.0rem;
+  color: #28A6A7;
+  font-weight: 50;
+  /* margin-bottom: 20px; */
+}
+
+.patient-stat[b-rnl6id7otv] {
+  font-size: 1rem;
+  color: #28A6A7;
+  margin-bottom: 25px;
+  line-height: 1.4;
+}
+
+.stat-number[b-rnl6id7otv] {
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+.book-btn[b-rnl6id7otv] {
+  background:#28A6A7;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 2px;
+  font-size: 1rem;
+  font-weight: 100;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  align-self: flex-start;
+}
+
+.book-btn:hover[b-rnl6id7otv] {
+  background: #26c6da;
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(77, 208, 225, 0.4);
+}
+
+.treatments-section[b-rnl6id7otv] {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.treatments-title[b-rnl6id7otv] {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #4dd0e1;
+  margin-bottom: 10px;
+}
+
+.treatments-grid[b-rnl6id7otv] {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 15px;
+}
+
+.treatment-item[b-rnl6id7otv] {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background: #f8f9fa;
+  border-radius: 15px;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.treatment-item:hover[b-rnl6id7otv] {
+  background: #e8f5e8;
+  transform: translateY(-3px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.treatment-icon[b-rnl6id7otv] {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+}
+
+.cardiology[b-rnl6id7otv] {
+  background: #ffcdd2;
+}
+.orthopedic[b-rnl6id7otv] {
+  background: #f8bbd9;
+}
+.neurology[b-rnl6id7otv] {
+  background: #c8e6c9;
+}
+.dentist[b-rnl6id7otv] {
+  background: #ffe0b2;
+}
+.pediatrics[b-rnl6id7otv] {
+  background: #b3e5fc;
+}
+
+.treatment-name[b-rnl6id7otv] {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #333;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .medical-section[b-rnl6id7otv] {
+    grid-template-columns: 1fr;
+    gap: 30px;
+    padding: 20px;
+  }
+
+  .doctor-name[b-rnl6id7otv] {
+    font-size: 1.5rem;
+  }
+
+  .treatments-grid[b-rnl6id7otv] {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .main-illustration[b-rnl6id7otv] {
+    max-width: 300px;
+    height: 250px;
+  }
+}
+
+@media (max-width: 480px) {
+  .treatments-grid[b-rnl6id7otv] {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.card-img[b-rnl6id7otv] {
+    padding-left: 20%;
+}
+

@@ -29,3 +29,4 @@ D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\CareSync.Web.pdb
 D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\CareSync.Web.genruntimeconfig.cache
 D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\ref\CareSync.Web.dll
 D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\scopedcss\Components\Layout\IndexPageLayout.razor.rz.scp.css
+D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\scopedcss\Components\Pages\Admin-Dashboard\Home.razor.rz.scp.css
