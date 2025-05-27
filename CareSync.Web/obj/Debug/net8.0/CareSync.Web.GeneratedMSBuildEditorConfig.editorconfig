@@ -34,10 +34,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG1pbi1EYXNoYm9hcmRcRG9jdG9yUHJvZmlsZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programming Projects/CareSync/CareSync.Web/Components/Pages/Admin-Dashboard/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG1pbi1EYXNoYm9hcmRcSG9tZS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/Programming Projects/CareSync/CareSync.Web/Components/Pages/Admin-Dashboard/MedicalDashboard.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG1pbi1EYXNoYm9hcmRcTWVkaWNhbERhc2hib2FyZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -73,3 +69,7 @@ build_metadata.AdditionalFiles.CssScope = b-vxdm7jc30a
 [D:/Programming Projects/CareSync/CareSync.Web/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-lw97k3z2jc
+
+[D:/Programming Projects/CareSync/CareSync.Web/Components/Pages/Admin-Dashboard/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG1pbi1EYXNoYm9hcmRcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-rnl6id7otv
