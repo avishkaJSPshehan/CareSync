@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HKfWKQfIUorwR2TYe1OU1ln5H0AAQjw3z766EkU1G4Y=",
+  "Hash": "0xH//EHyPRFef2VLXU4dmOYGLootUbVs8NMNWRisKyc=",
   "Source": "CareSync.Web",
   "BasePath": "_content/CareSync.Web",
   "Mode": "Default",
@@ -129,6 +129,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\images\\caresync-logo.png",
+      "SourceId": "CareSync.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\",
+      "BasePath": "_content/CareSync.Web",
+      "RelativePath": "images/caresync-logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\caresync-logo.png"
+    },
+    {
+      "Identity": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\images\\user-icon.png",
+      "SourceId": "CareSync.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\",
+      "BasePath": "_content/CareSync.Web",
+      "RelativePath": "images/user-icon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\user-icon.png"
     }
   ]
 }
