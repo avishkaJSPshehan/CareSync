@@ -46,171 +46,100 @@
   margin-left: auto;
 }
 
-.medical-section {
-  max-width: 50%;
-  margin-right:auto;
-  background: #E1F8F8;
-  border-radius: 5px;
-  /* display: grid;
-  grid-template-columns: 1fr 2fr 1fr;
-  gap: 40px;
-  align-items: center; */
+
+.doctor-section {
   display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 30px;
+  background: #f0fafa;
+  border-radius: 10px;
+  font-family: 'Segoe UI', sans-serif;
   justify-content: space-between;
+}
+
+.doctor-card {
+  background: #e6fbfc;
+  border-radius: 10px;
+  display: flex;
+  padding: 20px;
+  flex: 1 1 50%;
   align-items: center;
 }
 
-.doctor-info{
-    padding-top: 20px;
-    padding-left: 15px;
-    padding-bottom: 30px;
+.doctor-info {
+  flex: 1;
 }
 
-
-.doctor-name {
-  font-size: 1.4rem;
-  font-weight: 700;
-  color: #48B3B4;
-  margin-bottom: 5px;
-
+.doctor-info h2 {
+  color: #189ea4;
+  margin-bottom: 10px;
 }
 
-.doctor-title {
-  font-size: 1.0rem;
-  color: #28A6A7;
-  font-weight: 50;
-  /* margin-bottom: 20px; */
+.doctor-info p {
+  color: #3b9ca6;
+  margin: 5px 0;
 }
 
-.patient-stat {
-  font-size: 1rem;
-  color: #28A6A7;
-  margin-bottom: 25px;
-  line-height: 1.4;
-}
-
-.stat-number {
-  font-weight: 700;
-  font-size: 1.2rem;
+.highlight {
+  font-weight: bold;
+  color: #009688;
 }
 
 .book-btn {
-  background:#28A6A7;
+  background-color: #189ea4;
   color: white;
   border: none;
-  padding: 5px 10px;
-  border-radius: 2px;
-  font-size: 1rem;
-  font-weight: 100;
+  padding: 10px 16px;
+  border-radius: 5px;
   cursor: pointer;
-  transition: all 0.3s ease;
-  align-self: flex-start;
+  margin-top: 10px;
+  font-size: 14px;
 }
 
 .book-btn:hover {
-  background: #26c6da;
-  transform: translateY(-2px);
-  box-shadow: 0 5px 15px rgba(77, 208, 225, 0.4);
+  background-color: #137e83;
 }
 
-.treatments-section {
+.doctor-image img {
+  max-width: 250px;
+  height: auto;
+}
+
+.treatment-section {
+  flex: 1 1 45%;
+  background: white;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.treatment-section h3 {
+  color: #189ea4;
+  margin-bottom: 20px;
+}
+
+.treatment-list {
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
   gap: 20px;
 }
 
-.treatments-title {
-  font-size: 1.5rem;
-  font-weight: 700;
-  color: #4dd0e1;
-  margin-bottom: 10px;
-}
-
-.treatments-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 15px;
-}
-
 .treatment-item {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 20px;
-  background: #f8f9fa;
-  border-radius: 15px;
-  transition: all 0.3s ease;
-  cursor: pointer;
-}
-
-.treatment-item:hover {
-  background: #e8f5e8;
-  transform: translateY(-3px);
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-}
-
-.treatment-icon {
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  margin-bottom: 10px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 1.2rem;
-}
-
-.cardiology {
-  background: #ffcdd2;
-}
-.orthopedic {
-  background: #f8bbd9;
-}
-.neurology {
-  background: #c8e6c9;
-}
-.dentist {
-  background: #ffe0b2;
-}
-.pediatrics {
-  background: #b3e5fc;
-}
-
-.treatment-name {
-  font-size: 0.9rem;
-  font-weight: 600;
-  color: #333;
+  background: #e6fbfc;
+  border-radius: 10px;
   text-align: center;
+  padding: 10px;
+  flex: 1 1 90px;
 }
 
-@media (max-width: 768px) {
-  .medical-section {
-    grid-template-columns: 1fr;
-    gap: 30px;
-    padding: 20px;
-  }
-
-  .doctor-name {
-    font-size: 1.5rem;
-  }
-
-  .treatments-grid {
-    grid-template-columns: repeat(3, 1fr);
-  }
-
-  .main-illustration {
-    max-width: 300px;
-    height: 250px;
-  }
+.treatment-item img {
+  width: 50px;
+  height: 50px;
+  margin-bottom: 10px;
 }
 
-@media (max-width: 480px) {
-  .treatments-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
+.treatment-item p {
+  color: #3b9ca6;
+  margin: 0;
+  font-weight: 500;
 }
-
-.card-img {
-    padding-left: 20%;
-}
-

@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
+      "Id": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\images\\card-image.png",
+      "PackagePath": "staticwebassets\\images\\card-image.png"
+    },
+    {
       "Id": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\images\\caresync-logo.png",
       "PackagePath": "staticwebassets\\images\\caresync-logo.png"
     },
