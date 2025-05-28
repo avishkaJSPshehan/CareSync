@@ -299,21 +299,23 @@ body[b-lw97k3z2jc]{
 .doctor-section[b-rnl6id7otv] {
   display: flex;
   flex-wrap: wrap;
-  gap: 20px;
-  padding: 30px;
-  background: #f0fafa;
+  gap: 10px;
+  padding: 10px;
+  background: #EFF5F6;
   border-radius: 10px;
   font-family: 'Segoe UI', sans-serif;
   justify-content: space-between;
+  max-height: 300px;
 }
 
 .doctor-card[b-rnl6id7otv] {
-  background: #e6fbfc;
+  background: #E1F8F8;
   border-radius: 10px;
   display: flex;
-  padding: 20px;
+  padding: 2px;
   flex: 1 1 50%;
   align-items: center;
+  max-height: 200px;
 }
 
 .doctor-info[b-rnl6id7otv] {
@@ -323,6 +325,7 @@ body[b-lw97k3z2jc]{
 .doctor-info h2[b-rnl6id7otv] {
   color: #189ea4;
   margin-bottom: 10px;
+  font-size:larger;
 }
 
 .doctor-info p[b-rnl6id7otv] {
@@ -360,11 +363,13 @@ body[b-lw97k3z2jc]{
   background: white;
   border-radius: 10px;
   padding: 20px;
+  max-height: 200px;
 }
 
 .treatment-section h3[b-rnl6id7otv] {
   color: #189ea4;
   margin-bottom: 20px;
+  font-size: larger;
 }
 
 .treatment-list[b-rnl6id7otv] {
