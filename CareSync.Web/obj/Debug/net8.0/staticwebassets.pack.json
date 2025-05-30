@@ -25,20 +25,40 @@
       "PackagePath": "staticwebassets\\images\\1.jpg"
     },
     {
+      "Id": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
       "Id": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\images\\2.jpg",
       "PackagePath": "staticwebassets\\images\\2.jpg"
+    },
+    {
+      "Id": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\images\\2.png",
+      "PackagePath": "staticwebassets\\images\\2.png"
     },
     {
       "Id": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\images\\3.jpg",
       "PackagePath": "staticwebassets\\images\\3.jpg"
     },
     {
+      "Id": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\images\\3.png",
+      "PackagePath": "staticwebassets\\images\\3.png"
+    },
+    {
       "Id": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\images\\4.jpg",
       "PackagePath": "staticwebassets\\images\\4.jpg"
     },
     {
+      "Id": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\images\\4.png",
+      "PackagePath": "staticwebassets\\images\\4.png"
+    },
+    {
       "Id": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\images\\5.jpg",
       "PackagePath": "staticwebassets\\images\\5.jpg"
+    },
+    {
+      "Id": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\images\\5.png",
+      "PackagePath": "staticwebassets\\images\\5.png"
     },
     {
       "Id": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\images\\card-image.png",

@@ -375,25 +375,27 @@ body[b-lw97k3z2jc]{
 .treatment-list[b-rnl6id7otv] {
   display: flex;
   flex-wrap: wrap;
-  gap: 20px;
+  gap: 6px;
 }
 
 .treatment-item[b-rnl6id7otv] {
   background: #e6fbfc;
   border-radius: 10px;
   text-align: center;
-  padding: 10px;
+  /* padding: 10px; */
   flex: 1 1 90px;
+  max-width: 100px;
+  max-height: 100px;
 }
 
 .treatment-item img[b-rnl6id7otv] {
-  width: 50px;
-  height: 50px;
-  margin-bottom: 10px;
+  width: 100px;
+  height: 100px;
+  /* margin-bottom: 10px; */
 }
 
 .treatment-item p[b-rnl6id7otv] {
-  color: #3b9ca6;
+  color: #000000;
   margin: 0;
   font-weight: 500;
 }
