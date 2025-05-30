@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "//SQynHZyzkqwlqeIkYhpH+kKCilEK9itKYAROHbdgY=",
+  "Hash": "YdyE9A5WMVBtw0oJ/hTbZeGkmRo3cII27dRbwPanoCw=",
   "Source": "CareSync.Web",
   "BasePath": "_content/CareSync.Web",
   "Mode": "Default",
@@ -150,6 +150,25 @@
       "OriginalItemSpec": "wwwroot\\images\\1.jpg"
     },
     {
+      "Identity": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\images\\1.png",
+      "SourceId": "CareSync.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\",
+      "BasePath": "_content/CareSync.Web",
+      "RelativePath": "images/1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1.png"
+    },
+    {
       "Identity": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\images\\2.jpg",
       "SourceId": "CareSync.Web",
       "SourceType": "Discovered",
@@ -167,6 +186,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\2.jpg"
+    },
+    {
+      "Identity": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\images\\2.png",
+      "SourceId": "CareSync.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\",
+      "BasePath": "_content/CareSync.Web",
+      "RelativePath": "images/2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2.png"
     },
     {
       "Identity": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\images\\3.jpg",
@@ -188,6 +226,25 @@
       "OriginalItemSpec": "wwwroot\\images\\3.jpg"
     },
     {
+      "Identity": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\images\\3.png",
+      "SourceId": "CareSync.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\",
+      "BasePath": "_content/CareSync.Web",
+      "RelativePath": "images/3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\3.png"
+    },
+    {
       "Identity": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\images\\4.jpg",
       "SourceId": "CareSync.Web",
       "SourceType": "Discovered",
@@ -207,6 +264,25 @@
       "OriginalItemSpec": "wwwroot\\images\\4.jpg"
     },
     {
+      "Identity": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\images\\4.png",
+      "SourceId": "CareSync.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\",
+      "BasePath": "_content/CareSync.Web",
+      "RelativePath": "images/4.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\4.png"
+    },
+    {
       "Identity": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\images\\5.jpg",
       "SourceId": "CareSync.Web",
       "SourceType": "Discovered",
@@ -224,6 +300,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\5.jpg"
+    },
+    {
+      "Identity": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\images\\5.png",
+      "SourceId": "CareSync.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\",
+      "BasePath": "_content/CareSync.Web",
+      "RelativePath": "images/5.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\5.png"
     },
     {
       "Identity": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\images\\card-image.png",
