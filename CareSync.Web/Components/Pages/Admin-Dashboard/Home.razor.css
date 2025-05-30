@@ -126,7 +126,7 @@
 .treatment-list {
   display: flex;
   flex-wrap: wrap;
-  gap: 6px;
+  gap: 4px;
 }
 
 .treatment-item {
@@ -149,4 +149,94 @@
   color: #000000;
   margin: 0;
   font-weight: 500;
+}
+
+
+.patient-visits {
+  font-family: 'Segoe UI', sans-serif;
+  background: #fff;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.patient-visits h5 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+th, td {
+  padding: 10px 12px;
+  border-bottom: 1px solid #eee;
+}
+
+th {
+  background-color: #189ea4;
+  color: white;
+  font-weight: 600;
+  border-radius: 5px;
+}
+
+.avatar {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+.badge {
+  padding: 4px 10px;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  display: inline-block;
+}
+
+.emergency {
+  background: #ffdddd;
+  color: #d8000c;
+}
+
+.non-urgent {
+  background: #d4f1f9;
+  color: #007e91;
+}
+
+.out-patient {
+  background: #fff3cd;
+  color: #856404;
+}
+
+.discharge {
+  background: #d0efff;
+  color: #007bff;
+}
+
+.urgent {
+  background: #ffd6d6;
+  color: #d9534f;
+}
+
+.action-btn {
+  background: #f9f9f9;
+  border: none;
+  padding: 6px 10px;
+  margin: 0 2px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.action-btn:hover {
+  background: #ececec;
 }
