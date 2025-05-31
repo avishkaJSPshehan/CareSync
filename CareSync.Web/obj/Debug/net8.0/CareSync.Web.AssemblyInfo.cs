@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CareSync.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9dd9f9c694f3d58fb3f6bf4ae9f2700c801ffb8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f47d95e90436fa1088b4ff6791c378878818b3a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CareSync.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CareSync.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
