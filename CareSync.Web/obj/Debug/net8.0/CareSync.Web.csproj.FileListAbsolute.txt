@@ -19,8 +19,10 @@ D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\staticwebassets\m
 D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CareSync.Web.props
 D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CareSync.Web.props
 D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\scopedcss\Components\Layout\IndexPageLayout.razor.rz.scp.css
 D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
 D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\scopedcss\Components\Pages\Admin-Dashboard\Home.razor.rz.scp.css
 D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\scopedcss\bundle\CareSync.Web.styles.css
 D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\scopedcss\projectbundle\CareSync.Web.bundle.scp.css
 D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\CareSync.Web.dll
@@ -28,5 +30,4 @@ D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\refint\CareSync.W
 D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\CareSync.Web.pdb
 D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\CareSync.Web.genruntimeconfig.cache
 D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\ref\CareSync.Web.dll
-D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\scopedcss\Components\Layout\IndexPageLayout.razor.rz.scp.css
-D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\scopedcss\Components\Pages\Admin-Dashboard\Home.razor.rz.scp.css
+D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\scopedcss\Components\Pages\IndexPage.razor.rz.scp.css
