@@ -424,7 +424,7 @@ table[b-rnl6id7otv] {
 }
 
 th[b-rnl6id7otv], td[b-rnl6id7otv] {
-  padding: 10px 12px;
+  padding: 8px 10px;
   border-bottom: 1px solid #eee;
 }
 
@@ -432,7 +432,6 @@ th[b-rnl6id7otv] {
   background-color: #189ea4;
   color: white;
   font-weight: 600;
-  border-radius: 5px;
 }
 
 .avatar[b-rnl6id7otv] {
