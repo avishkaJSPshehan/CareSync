@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YdyE9A5WMVBtw0oJ/hTbZeGkmRo3cII27dRbwPanoCw=",
+  "Hash": "yfrXWiMdSzsKZJVtGnyE0ZKDg4c+6iqMJxIAPCDoqFw=",
   "Source": "CareSync.Web",
   "BasePath": "_content/CareSync.Web",
   "Mode": "Default",
@@ -376,6 +376,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\user-icon.png"
+    },
+    {
+      "Identity": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\Style\\Admin-Dashboard\\MedicalDashboard.css",
+      "SourceId": "CareSync.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\",
+      "BasePath": "_content/CareSync.Web",
+      "RelativePath": "Style/Admin-Dashboard/MedicalDashboard.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Style\\Admin-Dashboard\\MedicalDashboard.css"
     }
   ]
 }
