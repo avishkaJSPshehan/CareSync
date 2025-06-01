@@ -1,9 +1,86 @@
 ﻿@page "/medical-dashboard"
 
 <PageTitle>Medical</PageTitle>
+<head>
+    <link rel="stylesheet" href="/Style/Admin-Dashboard/MedicalDashboard.css"/>
+</head>
+<div class="top-row">
 
-<h1>Medical Dashboard</h1>
+    <div class="top-row-left">
+        <i class="bi bi-house"></i>
+        <p>&nbsp;&nbsp;/&nbsp;&nbsp; </p>
+        <p>Medical Dashboard</p>
+    </div>
 
-@code {
+    <div class="top-row-right">
+        <div class="icon-box">
+            <i class="bi bi-calendar-check"></i>
+        </div>
+        <p>04/28/2025 - 05/27/2025</p>
+    </div>
 
-}
+</div>
+
+
+<div class="dashboard">
+  <div class="stats">
+    <div class="card">
+      <div class="icon">&#128137;</div>
+      <div class="value">980</div>
+      <div class="label">Patients</div>
+      <div class="bottom">
+        <a href="#">View All →</a>
+        <span class="tag">+40%<br><span class="small">this month</span></span>
+      </div>
+    </div>
+    <div class="card">
+      <div class="icon">&#129658;</div>
+      <div class="value">260</div>
+      <div class="label">Appointments</div>
+      <div class="bottom">
+        <a href="#">View All →</a>
+        <span class="tag">+30%<br><span class="small">this month</span></span>
+      </div>
+    </div>
+    <div class="card">
+      <div class="icon">&#128176;</div>
+      <div class="value">$6800</div>
+      <div class="label">Revenue</div>
+      <div class="bottom">
+        <a href="#">View All →</a>
+        <span class="tag">+20%<br><span class="small">this month</span></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="specialities">
+    <h2>Specialities</h2>
+    <div class="speciality-list">
+      <div class="speciality">
+        <img src="/images/1.png" alt="Orthopedic">
+        <div>Orthopedic</div>
+        <span>9</span>
+      </div>
+      <div class="speciality">
+        <img src="/images/2.png" alt="Kidney">
+        <div>Kidney</div>
+        <span>5</span>
+      </div>
+      <div class="speciality">
+        <img src="/images/3.png" alt="Liver">
+        <div>Liver</div>
+        <span>6</span>
+      </div>
+      <div class="speciality">
+        <img src="/images/4.png" alt="Surgery">
+        <div>Surgery</div>
+        <span>12</span>
+      </div>
+      <div class="speciality">
+        <img src="/images/5.png" alt="Laboratory">
+        <div>Laboratory</div>
+        <span>5</span>
+      </div>
+    </div>
+  </div>
+</div>

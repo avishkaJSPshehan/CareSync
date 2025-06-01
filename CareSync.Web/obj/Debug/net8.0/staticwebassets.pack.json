@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\CareSync.Web.bundle.scp.css"
     },
     {
+      "Id": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\Style\\Admin-Dashboard\\MedicalDashboard.css",
+      "PackagePath": "staticwebassets\\Style\\Admin-Dashboard\\MedicalDashboard.css"
+    },
+    {
       "Id": "D:\\Programming Projects\\CareSync\\CareSync.Web\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
