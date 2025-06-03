@@ -22,7 +22,6 @@ D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\staticwebassets.p
 D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\scopedcss\Components\Layout\IndexPageLayout.razor.rz.scp.css
 D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
 D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
-D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\scopedcss\Components\Pages\Admin-Dashboard\Home.razor.rz.scp.css
 D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\scopedcss\bundle\CareSync.Web.styles.css
 D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\scopedcss\projectbundle\CareSync.Web.bundle.scp.css
 D:\Programming Projects\CareSync\CareSync.Web\obj\Debug\net8.0\CareSync.Web.dll
